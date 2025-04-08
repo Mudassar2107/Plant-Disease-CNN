@@ -1,6 +1,7 @@
 # Plant Disease Classification using CNN
 
-This minor college project uses a Convolutional Neural Network (CNN) built with TensorFlow to classify plant diseases from leaf images. The dataset was preprocessed with augmentation, and the model achieved high accuracy using Nadam optimizer.
+This minor college project uses a Convolutional Neural Network (CNN) built with TensorFlow to classify plant diseases from leaf images. The dataset was preprocessed with augmentation, and the model achieved high accuracy using the Nadam optimizer.
+Code is in the master branch
 
 ## Features
 - CNN architecture with 4 Conv layers
